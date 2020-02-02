@@ -1,0 +1,60 @@
+.home_bar{
+    border: 1cm;
+    border-color: aqua;
+    font-style: bold;
+    font-size: xx-large;
+    font-family: fantasy;
+    background-color: aqua;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.h1{
+font-size: xx-large; 
+margin-left: 200px;
+}
+
+.b{
+    font-size: xx-large;
+}
+
+.a{
+ font-size: xx-large;
+}
+
+.fridayevents{
+    justify-content: space-evenly;
+    font-size: x-large;
+}
+
+.bartitle{
+    margin-left: 650px;
+    font-size: 1.5cm;
+}
+
+.Eventsbutton{
+    margin-left: 20px;
+}
+
+.Eventsbutton:hover p{
+    opacity: 0.2
+
+}
+
+.homebutton{
+    margin-left: 20px;
+}
+
+.homebutton:hover p{
+    opacity: 0.2
+
+}
+.Experbutton{
+    margin-left: 20px;
+}
+
+.Experbutton:hover p{
+    opacity: 0.2
+
+}
